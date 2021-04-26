@@ -1,0 +1,14 @@
+release/main.o
+release/mainwindow.o
+release/qextserialport.o
+release/modbus.o
+release/modbus-data.o
+release/modbus-rtu.o
+release/modbus-tcp.o
+release/modbus-ascii.o
+release/win_qextserialport.o
+release/qextserialenumerator_win.o
+release/qrc_sparky.o
+release/moc_mainwindow.o
+release/moc_qextserialport.o
+release/moc_qextserialenumerator.o

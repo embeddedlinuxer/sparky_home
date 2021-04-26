@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>splash.png</file>
+        <file>icon.ico</file>
+        <file>connect.png</file>
+        <file>disconnect.png</file>
+        <file>settings.png</file>
+        <file>pause.png</file>
+        <file>play.png</file>
+        <file>stop.png</file>
+        <file>green.ico</file>
+        <file>red.ico</file>
+        <file>save.png</file>
+        <file>open.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>Sparky</Name>
+    <Version>0.0.3</Version>
+    <Title>Phase Dynamics Inc</Title>
+    <Publisher>Phase Dynamics</Publisher>
+    <StartMenuDir>Super App</StartMenuDir>
+    <TargetDir>@HomeDir@/Phase Dynamics/Sparky</TargetDir>
+</Installer>
